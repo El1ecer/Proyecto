@@ -1,2 +1,2 @@
 # Proyecto
-Trabajo grupal, final del semestre 
+Trabajo grupal, final del semestre. 
